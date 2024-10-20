@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Week3</string>
+    <string name="title">Feet4Movin\'</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="credits">Sammylee @ Freeimages.com</string>
+    <string name="subtitle">Choose your dance style</string>
+    <string name="dance1">Hip Hop</string>
+    <string name="dance2">Rock \'n\' Roll</string>
+    <string name="dance3">Samba</string>
+</resources>
